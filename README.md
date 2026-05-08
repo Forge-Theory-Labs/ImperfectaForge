@@ -116,3 +116,9 @@ Contributions, bug reports, and feature requests are welcome! Feel free to fork 
 ## 📜 License
 
 This project is open-source and available under the MIT License.
+<p align="center">
+  <img src="https://img.shields.io/badge/Forge‑Theory‑Labs‑Ecosystem-black" />
+  <img src="https://img.shields.io/badge/Semantic‑System‑typed-blue" />
+  <img src="https://img.shields.io/badge/SCP‑Capsule‑included-purple" />
+</p>
+
